@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] Emulator config file set to C:\ARUN\Projects\College\Dscc\Pract_9 (Azure)\Pract_9 (Azure)\Pract_9 (Azure)\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] DiagnosticsStoreRootPath set to: C:\Users\Arun\AppData\Local\dftmp\Resources\ff3d8f5f-e515-421f-8d7f-6385f05358bb
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] Loading config file: C:\ARUN\Projects\College\Dscc\Pract_9 (Azure)\Pract_9 (Azure)\Pract_9 (Azure)\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] Config file to read: C:\ARUN\Projects\College\Dscc\Pract_9 (Azure)\Pract_9 (Azure)\Pract_9 (Azure)\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] Emulator config file set to C:\ARUN\Projects\College\Dscc\Pract_9 (Azure)\Pract_9 (Azure)\Pract_9 (Azure)\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [30-11-2022 04:30:24 PM] Resetting DiagnosticPlugin
