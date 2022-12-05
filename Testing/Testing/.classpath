@@ -18,6 +18,8 @@
 	<classpathentry kind="src" path="4). Locators (ID, class name, linked text, Partial linked, tag name)"/>
 	<classpathentry kind="src" path="5). Synchronization (Implicit, Explicit  and Fluent Waits)"/>
 	<classpathentry kind="src" path="6). Alert"/>
+	<classpathentry kind="src" path="7). Drop Down and List Boxes"/>
+	<classpathentry kind="src" path="8). Radio Button and Check Boxes"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>

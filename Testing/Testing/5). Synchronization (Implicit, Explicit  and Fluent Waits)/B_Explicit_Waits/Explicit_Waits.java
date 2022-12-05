@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-
+//They allow your code to halt program execution, or freeze the thread, until the condition you pass it resolves.
 public class Explicit_Waits {
 
 	public static void main(String[] args) throws InterruptedException {

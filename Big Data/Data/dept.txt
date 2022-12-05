@@ -1,3 +1,0 @@
-20,Software,Mumbai
-10,Sales,Delhi
-30,Marketing,Banglore
